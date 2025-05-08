@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brain Tumor Detection using Deep Learning
 
 This project implements a Convolutional Neural Network (CNN) to detect brain tumors from MRI scans.
@@ -55,3 +56,6 @@ This will open a web interface where you can:
 
 The model uses a simple CNN architecture:
 - Convolutional layers with ReLU activation
+=======
+# Brain-tumor-detection-using-cnn
+>>>>>>> 219810effde8440311d369768d531fe5a2814386
